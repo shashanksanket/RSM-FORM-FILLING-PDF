@@ -1,0 +1,1176 @@
+.container1{
+    
+    background-color: rgb(0 158 199);
+    height: 50px;
+}
+
+*{
+    -webkit-print-color-adjust: exact;
+}
+
+.container1 h3{
+    margin:5px;
+    position: absolute;
+    top: 15px;
+    font-size: x-large;
+    color: white;
+    left:105px;
+}
+.container1 div{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    width:288px;
+
+}
+
+    
+
+
+.container1 label{
+    font-size: smaller;
+    font-family: Impact, 'Arial Narrow Bold';
+}
+.id1{
+    width:173px;
+    height: 31px;
+}
+
+.id2{
+    width:76px;
+    height:36px
+
+}
+.container2{
+    
+    background-color: rgb(229 229 229);
+    height: 50px;
+}
+.container2 h3{
+    margin:5px;
+    position:absolute;
+    left:105px;
+}
+#contactdetails{
+    margin:10px;
+    position:absolute;
+    top:80px;
+    left:100px;
+}
+
+
+.container3 hr{
+    width: 1320px;
+    height: 2px;
+    background-color: rgb(11 ,162, 201);
+    position: absolute;
+    top: 130px;
+    left: 190px;
+}
+
+.container3 h3{
+    position: absolute;
+    top:90px;
+    left:37%;
+}
+
+.container3 h4{
+    position: absolute;
+    top: 130px;
+    left: 40%;
+}
+.container3 img{
+    width: 245px;
+    height:123px;
+}
+.container3 div{
+    position: absolute;
+    top:147px;
+    width: 250px;
+    right: 200px;
+    background-color: rgb(204 ,236, 244);
+}
+.container3 input{
+    border: none;
+}
+
+.container3 div input{
+    width: 20px ;
+    height: 15px;
+    margin:2px;
+}
+
+.container4{
+    display: inline-block;
+    border: 2px solid rgb(94 ,193 ,220);
+    width: 155px;
+    height:70px;
+    position: absolute;
+    left: 60px;
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 20px;
+}
+
+.container5{
+    display: inline-block;
+    background-color: rgb(204 ,236 ,244);
+    width: 160px;
+    padding: 10px;
+    position: absolute;
+    top:400px;
+    left:60px;
+    
+}
+.container5 input{
+    border: 2px solid rgb(94 ,193 ,220);
+    
+}
+.container5 div{
+    
+
+    width: 80px;
+}
+.id3{
+    width: 30px;
+    height: 15px;
+    position: absolute;
+    left: 105px;
+    
+}
+
+.container6 h4{
+    position: absolute;
+    top: 150px;
+    left:30%;
+    background-color: rgb(204 ,236 ,244)
+
+}
+
+.container6{
+    text-align: center;
+    font-size: 20px;
+}
+
+.container6 h5{
+    color: #2fafd0;
+    display: inline-block;
+    position: absolute;
+    top: 180px;
+    left: 530px;
+}
+
+.container6 h6{
+    margin: 1px;
+   
+}
+
+.form{
+    display: inline-block;
+    position: absolute;
+    left:342px;
+    width:980px;
+    height: 375px;
+    padding:20px;
+    background-color:rgb(204 ,236 ,244);
+}
+.form input{
+    border: none;
+}
+
+.form #input1{
+    width: 870px;
+    position: relative;
+    height: 20px;
+    left: 15px;
+
+}
+
+.form #input2{
+    width: 85px;
+    position: relative;
+    height: 20px;
+    top: 2px;
+    left: 34px;
+}
+
+.form #input3{
+    width: 85px;
+    position: relative;
+    height: 20px;
+    top: 2px;
+    margin: 2px;
+    left: 10px;
+}
+
+.form #label3{
+    padding-left: 40px;
+}
+
+.form #input4{
+    position: absolute;
+    top:80px;
+    left:150px;
+    height: 20px;
+    width:845px;
+}
+
+.form #label4{
+    position: absolute;
+    top: 80px;
+    left: 20px;
+}
+
+.form #label5{
+    position: absolute;
+    top:110px;
+    left:20px;
+
+}
+
+.form #input5{
+    position: absolute;
+    top:110px;
+    left:150px;
+    width: 845px;
+    height: 20px;
+}
+
+.form #label6{
+    position: absolute;
+    top:140px;
+    left:20px;
+
+}
+
+.form #input6{
+    position: absolute;
+    top:140px;
+    left:170px;
+    width: 825px;
+    height: 20px;
+}
+
+.form #label7{
+    position: absolute;
+    top:170px;
+    left:20px;
+
+}
+
+.form #input7{
+    position: absolute;
+    top:170px;
+    left:325px;
+    width: 670px;
+    height: 20px;
+}
+
+.form #p1{
+    position: absolute;
+    top:190px
+}
+
+.form #label8{
+    position: absolute;
+    top:228px;
+    left:20px;
+
+}
+
+.form #input8{
+    position: absolute;
+    top:228px;
+    left:75px;
+    width: 25px;
+    height: 20px;
+}
+
+.form #label9{
+    position: absolute;
+    top:229px;
+    left:130px;
+
+}
+
+.form #input9{
+    position: absolute;
+    top:228px;
+    left:200px;
+    width: 200px;
+    height: 20px;
+}
+
+.form #label10{
+    position: absolute;
+    top:228px;
+    left:420px;
+
+}
+
+.form #input10{
+    position: absolute;
+    top:228px;
+    left:455px;
+    width: 25px;
+    height: 20px;
+}
+
+.form #p2{
+    position: absolute;
+    top:245px
+}
+.form #input11{
+    position: absolute;
+    top:285px;
+    left:25px;
+    width: 970px;
+    height: 20px;
+}
+.form #input12{
+    position: absolute;
+    top:315px;
+    left:25px;
+    width: 600px;
+    height: 20px;
+}
+
+.form #label13{
+    position: absolute;
+    top:315px;
+    left:650px;
+
+}
+
+.form #input13{
+    position: absolute;
+    top:315px;
+    left:685px;
+    width: 310px;
+    height: 20px;
+}
+
+.form #label14{
+    position: absolute;
+    top:345px;
+    left:20px;
+
+}
+
+.form #input14{
+    position: absolute;
+    top:345px;
+    left:105px;
+    width: 310px;
+    height: 20px;
+}
+
+.form #label15{
+    position: absolute;
+    top:345px;
+    left:450px;
+
+}
+
+.form #input15{
+    position: absolute;
+    top:345px;
+    left:505px;
+    width: 310px;
+    height: 20px;
+}
+
+.form #label16{
+    position: absolute;
+    top:375px;
+    left:20px;
+
+}
+
+.form #input16{
+    position: absolute;
+    top:375px;
+    left:160px;
+    width: 350px;
+    padding-top: 10px;
+}
+
+.container7{
+    display: inline-block;
+    position: absolute;
+    top:580px;
+    left: 50px;
+}
+
+.table1{
+    border: 2px solid rgb(94 ,193 ,220);
+    background-color: rgb(94 ,193 ,220);
+    display: inline-block;
+    position: absolute;
+    top:680px;
+    left:60px;
+    width:1278px ;
+}
+
+.table ,th,td {
+    background-color: white;
+
+}
+.table1 input{
+    border: none;
+}
+
+
+
+#row2 input{
+    width:310px;
+    height:55px;
+}
+
+.container8{
+    background-color: rgb(204 ,236 ,244);
+    display: inline-block;
+    position: absolute;
+    top:780px;
+    left:25%;
+    width: 800px;
+    height: 285px;
+}
+.container8 #input1,#input2,#input3,#input4,#input5,#input6{
+    border: none;
+}
+.container8 #label1{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.container8 #input1{
+    display: inline-block;
+    position: absolute;
+    top:35px;
+    left: 20px;
+    width: 500px;
+    height: 50px;
+    text-align: center;
+}
+
+.container8 #label2{
+    position: absolute;
+    top: 35px;
+    left: 550px;
+}
+.container8 #input2{
+    position: absolute;
+    top: 35px;
+    width:150px;
+    left:600px;
+}
+
+.container8 #label3{
+    position: absolute;
+    top: 65px;
+    left: 550px;
+}
+.container8 #input3{
+    position: absolute;
+    top: 65px;
+    width:150px;
+    left:600px;
+}
+
+.container8 #label4{
+    position: absolute;
+    top: 100px;
+    left: 10px;
+}
+.container8 #input4{
+    position: absolute;
+    top: 130px;
+    width:450px;
+    left:20px;
+}
+
+.container8 #p1{
+    position: absolute;
+    top:100px;
+    font-size: 10px;
+    left: 500px;
+}
+
+.container8 #label5{
+    position: absolute;
+    top: 135px;
+    left: 500px;
+    font-size: 10px;
+}
+.container8 #input5{
+    position: absolute;
+    top: 130px;
+    width:150px;
+    left: 605px;
+}
+
+.container8 #label6{
+    position: absolute;
+    top: 160px;
+    left: 10px;
+}
+.container8 #input6{
+    position: absolute;
+    top: 190px;
+    width:450px;
+    left: 20px;
+    text-align: center;
+    height: 80px;
+}
+
+.container8 #p2{
+    position: absolute;
+    top: 195px;
+    left: 500px;
+}
+
+
+.container8 #p3{
+    position: absolute;
+    top: 190px;
+    left: 550px;
+}
+.container8 #label7{
+    position: absolute;
+    top: 290px;
+    left: 10px;
+}
+.container8 #input7{
+    position: absolute;
+    top: 290px;
+    width:20px;
+    left: 420px;
+    text-align: center;
+}
+
+.container8 #label8{
+    position: absolute;
+    top: 290px;
+    left: 460px;
+}
+.container8 #input8{
+    position: absolute;
+    top: 290px;
+    width:70px;
+    left: 500px;
+    text-align: center;
+}
+.container8 #label9{
+    position: absolute;
+    top: 290px;
+    left: 600px;
+}
+.container8 #input9{
+    position: absolute;
+    top: 290px;
+    width:20px;
+    left: 700px;
+    text-align: center;
+}
+
+/* #ft1{
+    background-color: rgb(0 ,158, 199);
+    position: absolute;
+    top:1095px;
+    height: 20px;
+    width: 1500px;
+    left: 10px;
+} */
+#hd1{
+    background-color: rgb(0 ,158, 199);
+    position: absolute;
+    top:1095px;
+    height: 21px;
+    width: 1500px;
+    left: 10px;
+}
+
+.container9 h3{
+    position: absolute;
+    top:1098px;
+    left:39%;
+
+}
+
+.container9 table{
+    display: inline-block;
+    position: absolute;
+    top: 1145px;
+    left: 320px;
+    width:797px;
+    border-spacing: 4px;
+    height:343px;
+    background-color: rgb(204 ,236 ,244);
+}
+
+.table2 input{
+    border: none;
+}
+.th1,.th2,.th3,.th4{
+    background-color: rgb(0 ,158, 199);
+}
+.th1,.td1{
+    width: 195px;
+}
+.td1{
+    height: 40px;
+    background-color: white;
+}
+.th2,.td2{
+    width: 90px;
+    height: 40px;
+}
+
+.th3,.td3{
+    width: 120px;
+    height:40px;
+}
+
+.th4,.td4{
+    width: 250px;
+    height: 40px;
+}
+
+.container10{
+    display: inline-block;
+    position: absolute;
+    top:1490px;
+    left:325px;
+    background-color:rgb(204 ,236 ,244);
+    -webkit-print-color-adjust: exact;
+    width: 780px;
+    height:220px;
+}
+.container10 input{
+    border: none;
+}
+.container10 #label1{
+    position: absolute;
+    left:10px;
+    top:10px;
+}
+.container10 #input1{
+    width:30px;
+    height:20px;
+    position: absolute;
+    top:10px;
+    left:350px;
+}
+
+.container10 #label2{
+    position: absolute;
+    left:400px;
+    top: 10px;
+}
+.container10 #input2{
+    width:30px;
+    height:20px;
+    position: absolute;
+    left:435px;
+    top:10px;
+}
+
+.container10 #label3{
+    position: absolute;
+    top:10px;
+    left:480px;
+}
+.container10 #input3{
+    width:90px;
+    height:20px;
+    position: absolute;
+    top:10px;
+    left: 520px;
+}
+
+.container10 #label4{
+    position: absolute;
+    top:10px;
+    left:625px;
+}
+.container10 #input4{
+    width:90px;
+    height:20px;
+    position: absolute;
+    top:10px;
+    left: 675px;
+}
+
+.container10 #label5{
+    position: absolute;
+    top:45px;
+    left: 10px;
+}
+.container10 #input5{
+    width:30px;
+    height:20px;
+    position: absolute;
+    top:45px;
+    left:490px;
+}
+
+.container10 #label6{
+    position: absolute;
+    top:45px;
+    left: 540px;
+}
+.container10 #input6{
+    width:30px;
+    height:20px;
+    position: absolute;
+    top:45px;
+    left:575px;
+}
+.container10 #input7{
+    width:755px;
+    height:20px;
+    position: absolute;
+    top:75px;
+    left:10px;
+}
+
+.container10 #label8{
+    position: absolute;
+    top:105px;
+    left: 10px;
+}
+.container10 #input8{
+    width:380px;
+    height:20px;
+    position: absolute;
+    top:105px;
+    left:45px;
+}
+
+.container10 #label9{
+    position: absolute;
+    top:105px;
+    left: 440px;
+}
+.container10 #input9{
+    width:285px;
+    height:20px;
+    position: absolute;
+    top:105px;
+    left:480px;
+}
+
+.container10 #label10{
+    position: absolute;
+    top:135px;
+    left:10px;
+}
+.container10 #input10{
+    width:300px;
+    height:70px;
+    position: absolute;
+    top:135px;
+    left:45px;
+}
+
+.container10 #label11{
+    position: absolute;
+    top:135px;
+    left: 350px;
+}
+.container10 #input11{
+    width:335px;
+    height:70px;
+    position: absolute;
+    top:135px;
+    left:430px;
+}
+
+.container10 #p1{
+    position: absolute;
+    top:210px;
+    left:5px;
+}
+#h3{
+    color: rgb(0 ,158, 199);
+    position: absolute;
+    top:1715px;
+    left:330px;
+
+}
+
+.container11{
+    display: inline-block;
+    position: absolute;
+    top: 1755px;
+    left: 325px;
+    width: 790px;
+    height: 95px;
+    background-color: rgb(204 ,236 ,244);
+}
+
+.container11 input{
+    border: none;
+}
+
+.container11 #label1{
+    position: absolute;
+    top:15px;
+    font-size: large;
+    left:10px;
+}
+
+.container11 #input1{
+    position: absolute;
+    top:10px;
+    left: 20px;
+    width: 325px;
+    height: 25px;
+}
+.container11 #label2{
+    position: absolute;
+    top:15px;
+    font-size: large;
+    left:360px;
+}
+
+.container11 #input2{
+    position: absolute;
+    top:10px;
+    left: 440px;
+    width: 335px;
+    height: 25px;
+}
+.container11 #label3{
+    position: absolute;
+    top:45px;
+    font-size: large;
+    left: 10px;
+
+}
+
+#h4{
+    display: inline-block;
+    position: absolute;
+    top:1832px;
+    left: 38%;
+}
+
+.container12{
+    display: inline-block;
+    position: absolute;
+    background-color:rgb(204 ,236 ,244) ;
+    width: 785px;
+    height:200px;
+    top:1877px;
+    left: 325px;
+}
+
+.container12 #input1{
+    position: absolute;
+    width:20px;
+    height:20px;
+    top: 5px;
+    left: 5px;
+    border: 2px solid black
+}
+
+.container12 #label1{
+    position: absolute;
+    top: 7px;
+    left: 35px;
+}
+
+.container12 #input2{
+    position: absolute;
+    width:20px;
+    height:20px;
+    top: 5px;
+    left: 280px;
+    border: 2px solid black
+}
+
+.container12 #label2{
+    position: absolute;
+    top: 7px;
+    left: 315px;
+}
+
+.container12 #input3{
+    position: absolute;
+    width:20px;
+    height:20px;
+    top: 5px;
+    left: 465px;
+    border: 2px solid black
+}
+
+.container12 #label3{
+    position: absolute;
+    top: 7px;
+    left: 500px;
+}
+
+.container12 #input4{
+    position: absolute;
+    width:20px;
+    height:20px;
+    top: 50px;
+    left: 5px;
+    border: 2px solid black
+}
+
+.container12 #label4{
+    position: absolute;
+    top: 50px;
+    left: 35px;
+}
+.container12 #input5{
+    position: absolute;
+    width:20px;
+    height:20px;
+    top: 50px;
+    left: 245px;
+    border: 2px solid black
+}
+
+.container12 #label5{
+    position: absolute;
+    top: 50px;
+    left: 285px;
+}
+.container12 #input6{
+    position: absolute;
+    width:20px;
+    height:20px;
+    top: 50px;
+    left: 470px;
+    border: 2px solid black
+}
+
+.container12 #label6{
+    position: absolute;
+    top: 50px;
+    left: 505px;
+}
+.container12 #input7{
+    position: absolute;
+    width:20px;
+    height:20px;
+    top: 90px;
+    left: 5px;
+    border: 2px solid black
+}
+
+.container12 #label7{
+    position: absolute;
+    top: 90px;
+    left: 35px;
+}
+.container12 #input8{
+    position: absolute;
+    width:20px;
+    height:20px;
+    top: 125px;
+    left: 5px;
+    border: 2px solid black
+}
+
+.container12 #label8{
+    position: absolute;
+    top: 125px;
+    left: 35px;
+}
+.container12 #input9{
+    position: absolute;
+    width:200px;
+    border: none;
+    height:30px;
+    top: 160px;
+    left: 45px;
+}
+
+.container12 #label9{
+    position: absolute;
+    top: 165px;
+    left: 5px;
+}
+
+.container12 #input10{
+    position: absolute;
+    border: none;
+    width:200px;
+    height:30px;
+    top: 160px;
+    left: 320px;
+    text-align: center;
+}
+
+.container12 #label10{
+    position: absolute;
+    top: 165px;
+    left: 265px;
+}
+.container12 #input11{
+    position: absolute;
+    border: none;
+    width:120px;
+    height:80px;
+    top: 110px;
+    left: 650px;
+    text-align: center;
+}
+
+.container12 #label11{
+    position: absolute;
+    top: 165px;
+    left: 535px;
+}
+.container13{
+    position: absolute;
+    display: inline-block;
+    top: 2078px;
+    width: 850px;
+    height: 100px;
+    left: 295px;
+
+}
+
+.container13 #label1{
+    position: absolute;
+    top: 60px;
+    left: 30px;
+
+}
+.container13 #input1{
+    position: absolute;
+    border: none;
+    top:0px;
+    left: 5px;
+    height: 70px;
+}
+.container13 #label2{
+    position: absolute;
+    top: 60px;
+    left: 355px;
+
+}
+.container13 #input2{
+    position: absolute;
+    top:0px;
+    border: none;
+    left: 320px;
+    height: 70px;
+}
+.container13 #label3{
+    position: absolute;
+    top: 60px;
+    left: 670px;
+
+}
+.container13 #input3{
+    position: absolute;
+    top:0px;
+    border: none;
+    left: 645px;
+    height: 70px;
+}
+
+#hr2{
+    position: absolute;
+    border: 1px solid rgb(0 ,158, 199);
+    top: 2155px;
+    width:60%;
+    left: 270px;
+}
+
+.container14{
+    display: inline-block;
+    position: absolute;
+    top:2150px;
+    left:28%;
+    width: 550px;
+    height: 100px;
+}
+
+.container14 #p1{
+    position: absolute;
+    top:0px;
+    left: 5px;
+}
+
+.container14 #label1{
+    position: absolute;
+    top:40px;
+    left: 40px;
+}
+
+.container14 #input1{
+    position: absolute;
+    top:40px;
+    left:5px;
+    border: 1px solid rgb(0 ,158, 199);
+    width: 20px;
+    height:20px
+}
+
+.container14 #label2{
+    position: absolute;
+    top:40px;
+    left: 220px;
+}
+
+.container14 #input2{
+    position: absolute;
+    border: 1px solid rgb(0 ,158, 199);
+    top:40px;
+    left:180px;
+    width: 20px;
+    height:20px
+}
+
+.container14 #label3{
+    position: absolute;
+    top:40px;
+    left: 400px;
+}
+
+.container14 #input3{
+    position: absolute;
+    border: 1px solid rgb(0 ,158, 199);
+    top:40px;
+    left:365px;
+    width: 20px;
+    height:20px
+}
+.container14 #label4{
+    position: absolute;
+    top:40px;
+    left: 515px;
+}
+
+.container14 #input4{
+    position: absolute;
+    border: 1px solid rgb(0 ,158, 199);
+    top:40px;
+    left:480px;
+    width: 20px;
+    height:20px
+}
+/* #hr3{
+    position: absolute;
+    border: 1px solid rgb(0 ,158, 199);
+    top: 2217px;
+    width:60%;
+    left: 270px;
+} */
+
+#ft2{
+    background-color: rgb(0 ,158, 199);
+    position: absolute;
+    top:2215px;
+    height: 5px;
+    width: 1500px;
+    left: 10px;
+}
